@@ -6,11 +6,11 @@ Bem-vindos ao PROMPT - Programa Avançado em Métodos de Programação e Tecnolo
    * [Essencial dos ambientes de execução](https://github.com/CCISEL/PROMPT11-01-VMEssentials/)
    * Programação avançada
    * Programação para a Web 1 (Server Side)
-2º Período
+ * 2º Período
    * Programação para a Web 2 (Client Side)
    * Plataformas e modelos de acesso a dados
    * Desenho e implementação de serviços
-3º Período
+ * 3º Período
    * Programação concorrente e assíncrona
    * Segurança e gestão de identidade na Web
    * Programação em dispositivos móveis
