@@ -1,3 +1,3 @@
-# PROMPT, edição 2011 #
+# PROMPT, ediÃ§Ã£o 2011 #
 
-Bem-vindos ao PROMPT - Programa Avançado em Métodos de Programação e Tecnologia, edição de 2011.
+Bem-vindos ao PROMPT - Programa AvanÃ§ado em MÃ©todos de ProgramaÃ§Ã£o e Tecnologia, ediÃ§Ã£o de 2011.
