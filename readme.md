@@ -2,6 +2,10 @@
 
 Bem-vindos ao PROMPT - Programa Avançado em Métodos de Programação e Tecnologia, edição de 2011.
 
+ * [PROMPT11 wiki](https://github.com/CCISEL/PROMPT11/wiki)
+ * [PROMPT11 issues](https://github.com/ccisel/PROMPT11/issues)
+
+## Unidades curriculares ##
  * 1º Período
    * [Essencial dos ambientes de execução](https://github.com/CCISEL/PROMPT11-01-VMEssentials/)
    * Programação avançada
