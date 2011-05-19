@@ -8,7 +8,7 @@ Bem-vindos ao PROMPT - Programa Avançado em Métodos de Programação e Tecnolo
 ## Seminários ##
 
  * 7 de Junho de 2011, 18:30-20-30, _Introdução ao "Application Lifecycle Management"_ por [Tiago Pascoal](http://pt.linkedin.com/in/tiagopascoal)
- * 21 de Junho de 2011, 18:30-20-30, _Scrum_ por [Tiago Andrade e Silva](http://pt.linkedin.com/in/tiagonmas)
+ * 28 de Junho de 2011, 18:30-20-30, _Scrum_ por [Tiago Andrade e Silva](http://pt.linkedin.com/in/tiagonmas)
 
 ## Unidades curriculares ##
  * 1º Período
