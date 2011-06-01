@@ -13,7 +13,7 @@ Bem-vindos ao PROMPT - Programa Avançado em Métodos de Programação e Tecnolo
 ## Unidades curriculares ##
  * 1º Período
    * [Essencial dos ambientes de execução](https://github.com/CCISEL/PROMPT11-01-VMEssentials/)
-   * Programação avançada
+   * [Programação avançada](https://github.com/CCISEL/PROMPT11-02-AdvancedProgramming/)
    * Programação para a Web 1 (Server Side)
  * 2º Período
    * Programação para a Web 2 (Client Side)
