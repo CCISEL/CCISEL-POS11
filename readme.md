@@ -9,6 +9,7 @@ Bem-vindos ao PROMPT - Programa Avançado em Métodos de Programação e Tecnolo
 
  * 7 de Junho de 2011, 18:30-20-30, _Introdução ao "Application Lifecycle Management"_ por [Tiago Pascoal](http://pt.linkedin.com/in/tiagopascoal)
  * 28 de Junho de 2011, 18:30-20-30, _Scrum_ por [Tiago Andrade e Silva](http://pt.linkedin.com/in/tiagonmas)
+ * 19 de Julho de 2011, 18:30-20-30, _dDesenvolvimento de aplicações Web na framework Ruby on Rails_ por [Pedro Cunha](http://www.linkedin.com/in/pedroeduardocunha)
 
 ## Unidades curriculares ##
  * 1º Período
